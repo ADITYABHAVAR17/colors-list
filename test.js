@@ -1,4 +1,4 @@
-import assert from 'node:assert';
+import _assert from 'node:assert';
 import colorNameList from './index.js';
 
 // Function to get RGB value by color name
