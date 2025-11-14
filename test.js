@@ -8,7 +8,7 @@ function getColorByName(colorName) {
 
 
 // Example usage
-console.log(getColorByName('blue')); // [0, 0, 255]
+console.log(getColorByName('yellow')); // [255, 255, 0]
 console.log(getColorByName('red')); // [255, 0, 0]
 console.log(getColorByName('unknownColor')); // null
 
